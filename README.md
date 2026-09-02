@@ -16,7 +16,7 @@ A grid-based color-matching puzzle game developed in **C** using the **Allegro 5
 * **Rotation System:** Allows shifting rows (horizontally) and columns (vertically/crosswise).
 * **Gravity Mechanics:** Pieces fall to fill empty spaces after clears.
 * **Level Progression:** 5 levels with an increasing number of colors and a time limit.
-* **High Score System:** Saves scores to a local file (`recordes.txt`).
+* **High Score System:** Saves scores to a local file (`recordes.txt`) - buuug.
 
 ---
 
@@ -36,14 +36,14 @@ A grid-based color-matching puzzle game developed in **C** using the **Allegro 5
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** C (C99)
 * **Graphics Library:** Allegro 5 (Primitives, Fonts, TTF, Image)
 
 ---
 
-## 📦 How to Compile and Run
+## How to Compile and Run
 
 ### Prerequisites
 Ensure you have the `gcc` compiler installed along with the **Allegro 5** libraries.
